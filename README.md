@@ -5,7 +5,7 @@ Welcome to the project! This is a simple weather API  made in Go. and Openweathe
 It allows users to quickly and easily view temperatures in cities around the world,
 hope you enjoy and we look forward to your contributions!
 
-###Sample Output
+### Sample Output
 
 ![weater01](https://github.com/Kavindulakmal/WeatherTracker/assets/80127637/5f7f7257-8e86-4a45-9220-8e4755e7d869)
 
